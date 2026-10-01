@@ -1,5 +1,7 @@
 # STM32F401 Environment Monitor — E-paper SSD1680 + XY-MD02 (Modbus RTU)
 
+🇮🇩 Bahasa Indonesia | [🇬🇧 English](README.en.md)
+
 Firmware FreeRTOS untuk STM32F401CCU6 (Blackpill): baca suhu/kelembapan dari sensor
 Modbus RTU XY-MD02 tiap 10 detik, tampilkan ke e-paper SSD1680 (WeAct 2.13") tiap 60
 detik. **Status: TERUJI JALAN DI HARDWARE** — lihat bagian [Hasil Pengujian](#hasil-pengujian) di bawah.
